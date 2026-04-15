@@ -4,7 +4,10 @@
 * Cruz Castro Carmen Almira.
 * Gómez Soto Montserrat.
 ## Descripción
+
 ODS: 6 Agua limpia y saneamiento
+
+En nuestro país existe un grabe problema de gestión y administración del agua, lo que ha desembocado en una serie de problemas hídricos como sequías, inundaciones o escasez de agua, que nos afectan por igual a todo el país.
 
 ## Justificación de los datos
 La base de datos que contiene los 653 acuíferos presentes en el país es importante porque estos fungen como unidades de referencia para el tratamiento de datos sobre el agua, estos acuíferos no empatan con la división política del país pues fueron designados bajo criterios hidrogeológicos. En ese mismo sentido, la segunda base de acuíferos, acuíferos sobreexplotados, permite identificar puntualmente aquellos acuíferos cuya demanda de agua es mayor a la capacidad natural del mismo, reflejando un problema de escasez de agua.

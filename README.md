@@ -6,6 +6,11 @@
 ## Descripción
 ODS: 6 Agua limpia y saneamiento
 
+## Justificación de los datos
+La base de datos que contiene los 653 acuíferos presentes en el país es importante porque estos fungen como unidades de referencia para el tratamiento de datos sobre el agua, estos acuíferos no empatan con la división política del país pues fueron designados bajo criterios hidrogeológicos. En ese mismo sentido, la segunda base de acuíferos, acuíferos sobreexplotados, permite identificar puntualmente aquellos acuíferos cuya demanda de agua es mayor a la capacidad natural del mismo, reflejando un problema de escasez de agua.
+En seguida, los datos de Regiones Hidrológico Administrativas (que son 13) nos permiten agrupar los acuíferos dentro de unidades más grandes, que se asemejan en cierta manera a la división política del país a nivel estatal, y a las que se les confiere un organismo regulador en materia hídrica.
+Los datos proporcionados por el SIODS nos ayudan a conocer cuantitativamente el acceso al agua potable a nivel nacional, considerando un período de tiempo de ocho años y con la opción de filtrar la información por Estado. También nos proporcionan datos cuantitativos sobre la ocurrencia de inundaciones en el territorio y su afectación en grupos poblacionales (mujeres, personas indígenas, hombres, personas con discapacidad)
+
 ## Licencia CC BY-SA 4.0
 
 This work is licensed under <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">

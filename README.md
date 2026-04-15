@@ -4,7 +4,7 @@
 * Cruz Castro Carmen Almira.
 * Gómez Soto Montserrat.
 ## Descripción
-ODS: 6 Agua limpia y s
+ODS: 6 Agua limpia y saneamiento
 
 ## Licencia CC BY-SA 4.0
 
